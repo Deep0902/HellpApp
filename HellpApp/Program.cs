@@ -9,6 +9,7 @@ namespace HellpApp
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to GitHub");
             Console.WriteLine("This is Visual Studio");
+            Console.ReadLine();
         }
     }
 }
